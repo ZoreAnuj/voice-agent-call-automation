@@ -1,0 +1,19 @@
+give # Application Framework
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+python-multipart
+websockets
+
+# Database
+sqlalchemy
+
+# AI Service Libraries - Cloud APIs
+google-generativeai
+groq
+elevenlabs
+deepgram-sdk
+
+# Telephony
+twilio
